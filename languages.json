@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "founder": "Guido van Rossum",
+    "release_year": 1991,
+    "paradigm": "Object-Oriented, Procedural, Functional",
+    "designed_by": "Python Software Foundation",
+    "latest_version": "3.12",
+    "website": "https://www.python.org/",
+    "description": "High-level language famous for readability and rapid development."
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "founder": "Brendan Eich",
+    "release_year": 1995,
+    "paradigm": "Event-Driven, Functional, Object-Oriented",
+    "designed_by": "Netscape",
+    "latest_version": "ES2024",
+    "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "description": "Language of the web, used for frontend and backend development."
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "founder": "James Gosling",
+    "release_year": 1995,
+    "paradigm": "Object-Oriented",
+    "designed_by": "Sun Microsystems",
+    "latest_version": "Java 22",
+    "website": "https://www.java.com/",
+    "description": "\"Write Once, Run Anywhere\" — widely used for enterprise apps."
+  },
+  {
+    "id": 4,
+    "name": "C",
+    "founder": "Dennis Ritchie",
+    "release_year": 1972,
+    "paradigm": "Procedural",
+    "designed_by": "Bell Labs",
+    "latest_version": "C18",
+    "website": "https://www.iso.org/standard/74528.html",
+    "description": "Base language for OS kernels and systems programming."
+  },
+  {
+    "id": 5,
+    "name": "C++",
+    "founder": "Bjarne Stroustrup",
+    "release_year": 1985,
+    "paradigm": "Object-Oriented, Procedural",
+    "designed_by": "Bell Labs",
+    "latest_version": "C++23",
+    "website": "https://isocpp.org/",
+    "description": "Extension of C — used for performance-critical applications."
+  },
+  {
+    "id": 6,
+    "name": "C#",
+    "founder": "Microsoft",
+    "release_year": 2000,
+    "paradigm": "Object-Oriented",
+    "designed_by": "Microsoft",
+    "latest_version": "C# 13",
+    "website": "https://dotnet.microsoft.com/",
+    "description": "Language for .NET development including games using Unity."
+  },
+  {
+    "id": 7,
+    "name": "PHP",
+    "founder": "Rasmus Lerdorf",
+    "release_year": 1994,
+    "paradigm": "Imperative, Object-Oriented",
+    "designed_by": "The PHP Group",
+    "latest_version": "PHP 8.3",
+    "website": "https://www.php.net/",
+    "description": "Backend language widely used for web development."
+  },
+  {
+    "id": 8,
+    "name": "Go",
+    "founder": "Robert Griesemer, Rob Pike, Ken Thompson",
+    "release_year": 2009,
+    "paradigm": "Concurrent, Imperative",
+    "designed_by": "Google",
+    "latest_version": "Go 1.23",
+    "website": "https://go.dev/",
+    "description": "Simple, scalable and fast — designed for modern distributed systems."
+  },
+  {
+    "id": 9,
+    "name": "Rust",
+    "founder": "Graydon Hoare",
+    "release_year": 2010,
+    "paradigm": "Multi-paradigm, Memory-Safe",
+    "designed_by": "Mozilla",
+    "latest_version": "Rust 1.82",
+    "website": "https://www.rust-lang.org/",
+    "description": "Memory safety + high performance — great alternative to C++."
+  },
+  {
+    "id": 10,
+    "name": "Swift",
+    "founder": "Apple Inc.",
+    "release_year": 2014,
+    "paradigm": "Object-Oriented, Functional",
+    "designed_by": "Apple",
+    "latest_version": "Swift 6",
+    "website": "https://developer.apple.com/swift/",
+    "description": "Primary language for iOS/macOS app development."
+  }
+]
